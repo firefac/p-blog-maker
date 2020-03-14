@@ -1,8 +1,4 @@
 // 以下是业务服务器API地址
-// 本机开发时使用
-//var WxApiRoot = 'http://test-flower.firefac.cn:8081/openapi/';
-// 局域网测试使用
-// var WxApiRoot = 'http://192.168.0.101:8080/wx/';
 // 云平台测试时使用
 // var WxApiRoot = 'https://test-kter4wq76q06.firefac.cn/openapi/';
 // 云平台上线时使用
